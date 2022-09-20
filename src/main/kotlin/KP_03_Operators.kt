@@ -35,6 +35,18 @@ fun main(){
     //                    NOT
     var logic3 : Boolean = !(number1 < number2) //Logical NOT = Reverse the Result, if True it reversed into False
     println(logic3)
+
+
+    var number3 : Int = 10
+
+    //Increment Operator
+    var incrementNum : Int = ++number3 //++ (plus one)
+    println(incrementNum)              //= 11
+
+    //Decrement Operator
+    var decrementNum : Int = --number3 //-- (minus one)
+    println(decrementNum)              //= 9
+
 }
 
 //Source: https://www.youtube.com/watch?v=i4r09877JLo
