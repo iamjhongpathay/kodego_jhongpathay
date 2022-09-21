@@ -37,14 +37,15 @@ fun main(){
     println(logic3)
 
 
+    //Unary Operators
     var number3 : Int = 10
 
     //Increment Operator
-    var incrementNum : Int = ++number3 //++ (plus one)
+    var incrementNum : Int = ++number3 //++ (plus one) and then Print
     println(incrementNum)              //= 11
 
     //Decrement Operator
-    var decrementNum : Int = --number3 //-- (minus one)
+    var decrementNum : Int = --number3 //-- (minus one) and then Print
     println(decrementNum)              //= 9
 
 }
