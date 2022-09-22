@@ -21,3 +21,4 @@ fun main(){
 //Source: https://www.youtube.com/watch?v=gc-fbBzdOHY
         //https://www.geeksforgeeks.org/kotlin-for-loop/?ref=gcse
         //https://www.geeksforgeeks.org/kotlin-string/?ref=gcse
+        //https://www.ictdemy.com/kotlin/basics/loops-in-kotlin
