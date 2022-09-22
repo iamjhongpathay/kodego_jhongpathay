@@ -7,6 +7,15 @@ fun main(){
 
         ctr++ //update
     }
+
+    //with If condition
+    while (ctr <= 5){ //condition
+       if(ctr == 3){
+           println("Hello World $ctr")
+       }
+
+        ctr++ //update
+    }
 }
 
 //Source: https://www.youtube.com/watch?v=Jhv1RcNIDxs
