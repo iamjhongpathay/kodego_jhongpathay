@@ -54,15 +54,21 @@ fun main (){
         git branch
         git status                                      //checking the status of files
 
+        git branch <new branch name>          //Creating another branches
+        git checkout <new branch name>        //Switching the branch from master to <new branch name>
+
+
         //Creating Git on a local computer
         git config --global user.name 'Jefferson Pathay'
         git config --global user.email 'jeffersonpathay@gmail.com'
+
 
         git config --list                               //Press ENTER -> (END) -> to quit Press "Q"
 
         git add .\src\main\kotlin\KP_01.kt              //Adding the file into STAGING
 
         git commit -m"KP_01.kt 1st commit"              //Committing the added file from STAGING into REPOSITORY    //m = message
+
 
 
     [2] GitHub
@@ -76,6 +82,8 @@ fun main (){
                         git add
                         git commit -m""
                         git push -u origin master
+
+
  */
 
 //Source: https://www.youtube.com/watch?v=G8sd0EMU5cc
