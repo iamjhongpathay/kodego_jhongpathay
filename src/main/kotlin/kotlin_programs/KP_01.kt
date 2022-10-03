@@ -54,14 +54,13 @@ fun main (){
         git branch
         git status                                      //checking the status of files
 
-        git branch <new branch name>          //Creating another branches
-        git checkout <new branch name>        //Switching the branch from master to <new branch name>
+        git branch <new branch name>                    //Creating another branches
+        git checkout <new branch name>                  //Switching the branch from master to <new branch name>
 
 
         //Creating Git on a local computer
         git config --global user.name 'Jefferson Pathay'
         git config --global user.email 'jeffersonpathay@gmail.com'
-
 
         git config --list                               //Press ENTER -> (END) -> to quit Press "Q"
 
