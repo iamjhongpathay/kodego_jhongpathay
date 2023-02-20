@@ -64,7 +64,7 @@ fun main (){
 
         git config --list                               //Press ENTER -> (END) -> to quit Press "Q"
 
-        git add .\src\main\kotlin\KP_01.kt              //Adding the file into STAGING
+        git add .\src\kotlin_programs.main\kotlin\KP_01.kt              //Adding the file into STAGING
 
         git commit -m"KP_01.kt 1st commit"              //Committing the added file from STAGING into REPOSITORY    //m = message
 
